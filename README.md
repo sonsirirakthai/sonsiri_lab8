@@ -1,9 +1,4 @@
 "# sonsiri_lab8" 
-```python?code_reference&code_event_index=3
-# Define the content for the README.md file
-readme_content = """# Supermarket Product Management System 
-
-
 ## คุณสมบัติของระบบ (Features)
 - **Dashboard:** แสดงรายการสินค้าทั้งหมดในรูปแบบตาราง พร้อมรูปภาพ
 - **Add Product:** เพิ่มข้อมูลสินค้าใหม่ (ชื่อ, หมวดหมู่, ราคา, สต๊อก) พร้อมอัปโหลดรูปภาพ
